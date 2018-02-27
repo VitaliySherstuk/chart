@@ -14,15 +14,15 @@ public class Main {
     public static void main(String[] args) throws Exception {
 
 
-        /*String filenameExcel = args[1];
+        String filenameExcel = args[1];
         String filePptx = args[0];
         String fileExcelForColumnDiagram = args[2];
-        String fileExcelForRadardDiagram = args[3];*/
+        String fileExcelForRadardDiagram = args[3];
 
-        String filenameExcel = "d:\\TestBot\\ChartPointss.xlsx";
+        /*String filenameExcel = "d:\\TestBot\\ChartPointss.xlsx";
         String filePptx = "d:\\TestBot\\template.pptx";
         String fileExcelForColumnDiagram = "d:\\TestBot\\csat_chart_bar.xlsx";
-        String fileExcelForRadardDiagram = "d:\\TestBot\\csat_chart_radar.xlsx";
+        String fileExcelForRadardDiagram = "d:\\TestBot\\csat_chart_radar.xlsx";*/
 
         XMLSlideShow slideShow = null;
         List<XSLFSlide> slideList = null;
